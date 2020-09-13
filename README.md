@@ -12,6 +12,13 @@ Please follow instructions here:
 
 Run `npm install` within the **github-search-api-angular** folder.
 
+Then run the following commands to install some dependencies :
+- npm install @angular-devkit/core
+- npm install --save @angular/material
+- npm install ngx-pagination --save
+- npm install jspdf
+- npm install html2canvas
+
 ## Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
